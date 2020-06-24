@@ -1,0 +1,1 @@
+require 'mysql_uuid_type'
